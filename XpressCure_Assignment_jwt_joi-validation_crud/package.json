@@ -1,0 +1,21 @@
+{
+  "name": "login_signup_mvc_pattern",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "joi": "^17.6.2",
+    "jsonwebtoken": "^8.5.1",
+    "knex": "^2.2.0",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
